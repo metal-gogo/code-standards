@@ -8,7 +8,7 @@
 
  - [C# y Xamarin](c-sharp/)
  - [CSS, SASS y LESS](css/)
- - [HTML, CSHTML](html/)
+ - [CSHTML, HTML](cshtml/)
  - [Java](java/)
  - [JavaScript, AngularJS y ReactJS](js/)
  - [Markdown y Github Markdown](md/)

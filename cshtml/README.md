@@ -1,4 +1,4 @@
-# Guías de estilos de HTML y CSHTML en GBM
+# Guías de estilos de CSHTML y HTML en GBM
 
 ## Tabla de contenidos
 

@@ -9,7 +9,7 @@
  - [C# y Xamarin](../c-sharp/)
  - [CSS, SASS y LESS](../css/)
  - [Desarrollo de guáis de estilo](../)
- - [HTML, CSHTML](../html/)
+ - [CSHTML, HTML](../cshtml/)
  - [Java](../java/)
  - [JavaScript, AngularJS y ReactJS](../js/)
  - [Swift y Objective-C](../swift/)
