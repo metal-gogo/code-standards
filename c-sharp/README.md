@@ -4,7 +4,7 @@
 
 1. [Otras guías de estilo](#otras-guías-de-estilo)
 
- ## Otras guías de estilo
+## Otras guías de estilo
 
  - [CSS, SASS y LESS](../css/)
  - [Desarrollo de guáis de estilo](../)

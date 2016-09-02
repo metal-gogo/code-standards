@@ -1,10 +1,10 @@
-# Guías de estilos de Markdown en GBM
+# Guías de estilos de Markdown y Github Markdown en GBM
 
 ## Tabla de contenidos
 
 1. [Otras guías de estilo](#otras-guías-de-estilo)
 
- ## Otras guías de estilo
+## Otras guías de estilo
 
  - [C# y Xamarin](../c-sharp/)
  - [CSS, SASS y LESS](../css/)

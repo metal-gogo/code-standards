@@ -4,7 +4,7 @@
 
 1. [Otras guías de estilo](#otras-guías-de-estilo)
 
- ## Otras guías de estilo
+## Otras guías de estilo
 
  - [C# y Xamarin](../c-sharp/)
  - [CSS, SASS y LESS](../css/)
