@@ -1,4 +1,4 @@
-# Guías de estilos de C# para GBMfondos
+# Guías de estilos de Markdown en GBM
 
 ## Tabla de contenidos
 
@@ -6,7 +6,7 @@
 
  ## Otras guías de estilo
 
- - [C# y Xamarin](../c#/)
+ - [C# y Xamarin](../c-sharp/)
  - [CSS, SASS y LESS](../css/)
  - [Desarrollo de guáis de estilo](../)
  - [HTML, CSHTML](../html/)

@@ -1,4 +1,4 @@
-# Guías de estilos de C# para GBMfondos
+# Guías de estilos de C# y Xamarin en GBM
 
 ## Tabla de contenidos
 
@@ -11,5 +11,5 @@
  - [HTML, CSHTML](../html/)
  - [Java](../java/)
  - [JavaScript, AngularJS y ReactJS](../js/)
- - [Markdown y  Github Markdown](../md/)
+ - [Markdown y Github Markdown](../md/)
  - [Swift y Objective-C](../swift/)
